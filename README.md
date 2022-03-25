@@ -71,7 +71,6 @@ The Bot takes collection Url as input and starts making offers on arts of collec
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
-You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
 
 
 ## Bot#3  OpenSea Apis Bot#3 
@@ -96,6 +95,5 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |Outbid bot - Bot has option to bid always percentage high from previous highest bid|
 </div>
 
-You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
 
 
