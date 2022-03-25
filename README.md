@@ -1,17 +1,12 @@
-<h1 align="center">OpenSea NFT Bidding Bot</h1>
-<p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/fullcrop.png" alt="Logo" width="140" height="220">
-  </a>
-</p>
-<div align="center">
+<img src="https://i.imgur.com/POFGpXS.png" alt="logo" width="100%">
 
+<div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
   <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
 	<code>ahmadzee26@gmail.com</code>
 </a>
 	<span> ┃ </span>
-	
+
 <a href="https://t.me/zeeshanahmad4">
   <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 	<code>@zeeshanahmad4</code>
@@ -22,78 +17,20 @@
 	  <code>Zee#0291</code>
 </a>
 <br />
-	
-	
+  <strong align="center">For discussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
+
+
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
 </div>
-	
-<div align="center">
-  <strong>For discussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
-</div>
 <br />
-
-
-
-# Make Bulk Offer Bot
-
-I have two bots for Making low ball Bulk offers Bot#1 using Browser Automation and Bot#2 is using Opensea Sdk apis .
-
-### Bot Inputs-
-
- 1. Collection URL 
- 2. Metamask
- 3. Bid Amount
- 4. Bid expiration time  - only for Apis bot
- 
-The Bot takes collection Url as input and starts making offers on arts of collection. 
-
-## Bot#1  Browser Automation Bot 
-- Build on Chrome browser automation  - Python
-- The Bot can be a single thread or Multithread depends open Your machine power.
-- The Bot is slow because it uses using chrome browser to make offers on arts. The Bot needs to sign every transaction like humans.
-- The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
-- The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
-
-### Pros & Cons of Browser Automation Bot
-
-<div align="center">
-
-|Stats    | 
-|---------|
-|3-5 offers Per minute       |
-|Miss a lot of offers.       |
-|Break Some times       |
-|Can't Bid on Multiple Collections    |
-|Not Customizable We can not add more functionalities into bot|
-
-</div>
+<img src="https://i.imgur.com/2vxall3.png" width="80%">
+<img src="https://i.imgur.com/MsAlJvS.jpg" width="80%">
+<img src="https://i.imgur.com/OX8DRWA.png" width="80%">
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
-
-
-## Bot#3  OpenSea Apis Bot#3 
-- Build on Opensea Official SDK Apis.
-- The Bot is fast and robust - It does not need to sign transactions.
-- The Bot can make offers with custom expiration time from 1 minute to 6months.
-- The Bot will never break because its light weighted and uses open sea Offical Apis. 
-- The Bot can make offers on multiple Collections in one run. 
-<br/>
-
-### Pros & Cons  of OpenSea Apis Bot#3 
-
-<div align="center">
-
-|Stats    | 
-|---------|
-|30-40 offers Per minute Lighting Fast Speed |
-|Does not miss Any offer 100% success rate |
-|Does not break also no Rejections from Opensea |
-|Can Bid on Multiple Collections in one run alternatively on arts|
-|Customizable We can add more functionalities into bot|
-|Outbid bot - Bot has option to bid always percentage high from previous highest bid|
-</div>
-
+<img src="https://i.imgur.com/yPi4Ul4.png" width="80%">
+<img src="https://i.imgur.com/IFQjSSF.png" width="80%">
 
 
