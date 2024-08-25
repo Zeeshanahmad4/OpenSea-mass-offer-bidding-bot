@@ -9,7 +9,6 @@
 
 # Make Bulk Offer Bot
 
-I have two bots for Making low ball Bulk offers Bot#1 using Browser Automation and Bot#2 is using Opensea Apis bot.
 
 ### Bot Inputs-
 
